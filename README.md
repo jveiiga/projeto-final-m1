@@ -163,4 +163,3 @@ No Canvas, por favor, envie sua url do GitHub Pages:
 (ex:https://nomerandomico.pages.github.io/) e envie o link do seu
 repositório nos comentários. Atenção, seu repositório deverá ser
 compartilhado apenas com a organização. (Internal)
-# projeto-final-m1
